@@ -1,0 +1,18 @@
+/* Localgov Fonts */
+
+@import url('https://fonts.googleapis.com/css?family=Muli:400,600,700');
+
+.muli {
+    font-family: 'Muli', sans-serif;
+}
+
+
+/* Focus */
+
+input:focus, button:focus, a:focus {
+  background-color:#ffbf47;
+  outline-color: #ffbf47;
+  outline-style: solid;
+  outline-width: 3px;
+  z-index: 999;
+}
