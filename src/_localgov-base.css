@@ -1,9 +1,23 @@
-/* Localgov Fonts */
+/* Fonts */
 
 @import url('https://fonts.googleapis.com/css?family=Muli:400,600,700');
 
 .muli {
-    font-family: 'Muli', sans-serif;
+  font-family: 'Muli', sans-serif;
+}
+
+/* Links */
+
+a:link {
+  color: #005ea5;
+}
+
+a:hover {
+  color: #2b8cc4;
+}
+
+a:visited {
+  color: #4c2c92;
 }
 
 
