@@ -9,8 +9,8 @@
 /* Focus */
 
 input:focus, button:focus, a:focus {
-  background-color:#ffbf47;
-  outline-color: #ffbf47;
+  background-color:#ff9400;
+  outline-color: #ff9400;
   outline-style: solid;
   outline-width: 3px;
   z-index: 999;
